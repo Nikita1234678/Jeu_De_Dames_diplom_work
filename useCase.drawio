@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T17:20:50.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="EXu60IhsYcJnkOxiejGc" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T17:22:45.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="sIvZ56tXslOBv4B-d7gb" version="24.2.1" type="github">
   <diagram name="Страница — 1" id="EumX5ANI0scenu6BLaOj">
     <mxGraphModel dx="2146" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ho-AAO0nml4vrayCmW2m-1" value="&lt;font color=&quot;#33001a&quot;&gt;User Веб&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-40" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="620" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho-AAO0nml4vrayCmW2m-2" value="&lt;font color=&quot;#6666ff&quot;&gt;User Telegram&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="30" y="250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho-AAO0nml4vrayCmW2m-3" value="User win/linux" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="620" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="-40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho-AAO0nml4vrayCmW2m-4" value="Авторизация" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="340" y="50" width="130" height="80" as="geometry" />
