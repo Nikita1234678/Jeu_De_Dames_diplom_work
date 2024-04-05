@@ -1,262 +1,262 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T17:22:45.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="sIvZ56tXslOBv4B-d7gb" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T15:16:37.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="xIu-e-_5xVUDQzxTDpFK" version="24.2.2" type="github">
   <diagram name="Страница — 1" id="EumX5ANI0scenu6BLaOj">
-    <mxGraphModel dx="2146" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-1" value="&lt;font color=&quot;#33001a&quot;&gt;User Веб&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-1" value="&lt;font color=&quot;#33001a&quot;&gt;User Веб&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="30" y="620" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-2" value="&lt;font color=&quot;#6666ff&quot;&gt;User Telegram&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-2" value="&lt;font color=&quot;#6666ff&quot;&gt;User Telegram&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="30" y="250" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-3" value="User win/linux" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-3" value="User win/linux" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="-40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-4" value="Авторизация" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-4" value="Авторизация" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="340" y="50" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-4">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="130" as="sourcePoint" />
             <mxPoint x="260" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-4">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="250" as="sourcePoint" />
             <mxPoint x="230" y="336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-4">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="334" as="sourcePoint" />
             <mxPoint x="230" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-8" value="посмотреть инфо пользователя/&lt;span style=&quot;background-color: initial;&quot;&gt;статистику&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-8" value="посмотреть инфо пользователя/&lt;span style=&quot;background-color: initial;&quot;&gt;статистику&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="140" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-8">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="220" as="sourcePoint" />
             <mxPoint x="440" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-11" value="Создание/присоединение к игровой комнате" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-11" value="начать игру" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-11">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="220" as="sourcePoint" />
             <mxPoint x="440" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-13" value="Играть" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-13" value="Играть" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-13">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="149" as="sourcePoint" />
             <mxPoint x="355" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-18" value="superAdmin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-18" value="superAdmin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="740" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-4">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="350" as="sourcePoint" />
             <mxPoint x="660" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-8">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="365" as="sourcePoint" />
             <mxPoint x="600" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-11">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="350" as="sourcePoint" />
             <mxPoint x="600" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-13">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-24" value="Получение статусов игры/сервера" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-24" value="Получение статусов игры/сервера" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-24">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-26" value="управление игрой" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-26" value="управление игрой" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="695" y="-50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-26">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="450" as="sourcePoint" />
             <mxPoint x="430" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-28" value="написать в тех. поддержку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-28" value="написать в тех. поддержку" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-28">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-30" value="посмотреть заявки в ТП" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-30" value="посмотреть заявки в ТП" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-30">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-32" value="закрыть заявку в ТП" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-32" value="закрыть заявку в ТП" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="695" y="610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-32">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="380" as="sourcePoint" />
             <mxPoint x="610" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-34" value="Поддержать разработчика&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-34" value="Поддержать разработчика&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-34">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-36" value="колесо реакций" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-36" value="колесо реакций" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-36">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="450" as="sourcePoint" />
             <mxPoint x="430" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-8">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-11">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="350" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-13">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="450" as="sourcePoint" />
             <mxPoint x="430" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-28">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="450" as="sourcePoint" />
             <mxPoint x="430" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-42" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-34">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-42" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="255" as="sourcePoint" />
             <mxPoint x="210" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-44" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-36">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-44" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="262" as="sourcePoint" />
             <mxPoint x="355" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-8">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="333" as="sourcePoint" />
             <mxPoint x="350" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-11">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="339" as="sourcePoint" />
             <mxPoint x="350" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-13">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="345" as="sourcePoint" />
             <mxPoint x="355" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-28">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="351" as="sourcePoint" />
             <mxPoint x="355" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-34">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="358" as="sourcePoint" />
             <mxPoint x="355" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-36">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="364" as="sourcePoint" />
             <mxPoint x="355" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-34">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="398" as="sourcePoint" />
             <mxPoint x="622" y="632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-36">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="380" as="sourcePoint" />
             <mxPoint x="475" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-53" value="FAQ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-53" value="FAQ" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="-50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-53">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Ho-AAO0nml4vrayCmW2m-1" target="Ho-AAO0nml4vrayCmW2m-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="100" as="sourcePoint" />
             <mxPoint x="350" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-53">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="Ho-AAO0nml4vrayCmW2m-2" target="Ho-AAO0nml4vrayCmW2m-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="356" as="sourcePoint" />
             <mxPoint x="350" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-53">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-3" target="Ho-AAO0nml4vrayCmW2m-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="632" as="sourcePoint" />
             <mxPoint x="350" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ho-AAO0nml4vrayCmW2m-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-53">
+        <mxCell id="Ho-AAO0nml4vrayCmW2m-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ho-AAO0nml4vrayCmW2m-18" target="Ho-AAO0nml4vrayCmW2m-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="290" as="sourcePoint" />
             <mxPoint x="480" y="100" as="targetPoint" />
