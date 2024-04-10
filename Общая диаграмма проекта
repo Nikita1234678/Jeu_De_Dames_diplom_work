@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T16:38:59.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="LSN0DMO2XT8V7CHmv94E" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T16:39:12.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="4Bgfv8JmfYxkXoSmGhWl" version="24.2.2" type="github">
   <diagram name="Страница — 1" id="_XCDFKwp3Xa3X9e3KPoT">
     <mxGraphModel dx="1641" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kxjsur2yB1UjnOqqdbZF-13" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;server WebAPI calls&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Request&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393D;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="kxjsur2yB1UjnOqqdbZF-13" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;server WebAPI calls&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393D;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="muzr5HAAuIFNdwn4Ter--2" value="server WebAPI calls" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
